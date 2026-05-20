@@ -1,0 +1,13 @@
+{
+  "id": "refund-confirmation",
+  "name": "Fake refund / order confirmation",
+  "description": "Email claiming a refund or large purchase you didn't make, with a phone number to call to dispute it. The phone number connects to the scammer, who then asks for remote access to your computer or bank.",
+  "example": "Thank you for your purchase! Your order #88421 for $499.99 (Norton 360 Premium 5-year) has been confirmed. If you did not authorize this purchase, call 1-888-555-0173 immediately to cancel.",
+  "red_flags": [
+    "You didn't make this purchase",
+    "Phone number is the only way to dispute (no website link to a real account)",
+    "Amount is high enough to alarm but not absurd",
+    "Pressure to call immediately"
+  ],
+  "category": "financial"
+}

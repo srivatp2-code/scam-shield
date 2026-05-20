@@ -1,0 +1,13 @@
+{
+  "id": "job-offer-upfront",
+  "name": "Job offer with upfront payment",
+  "description": "An unsolicited 'job offer,' often work-from-home, that requires you to pay for equipment, training, or to cash a check and send part of it back.",
+  "example": "Congratulations! You've been selected for a remote data entry position paying $35/hour. To get started, we'll mail you a check for $2,500 for equipment. Deposit it and wire $1,800 to our supplier.",
+  "red_flags": [
+    "You didn't apply for this job",
+    "Salary is unusually high for the described work",
+    "Requires depositing a check and sending money back (check will bounce later)",
+    "Communication is by text or generic email, not a company domain"
+  ],
+  "category": "employment"
+}

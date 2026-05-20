@@ -1,0 +1,13 @@
+{
+  "id": "irs-back-taxes",
+  "name": "IRS back taxes / arrest threat",
+  "description": "Caller or message claims you owe back taxes and will be arrested unless you pay immediately, usually via gift cards or wire transfer.",
+  "example": "This is the IRS. You owe $4,287 in back taxes. A warrant has been issued for your arrest. To resolve this immediately, purchase $500 in Apple gift cards and call back with the codes.",
+  "red_flags": [
+    "IRS never initiates contact by phone or text demanding immediate payment",
+    "IRS never accepts gift cards as payment",
+    "Threats of arrest are not how the IRS communicates",
+    "Demand for immediate action"
+  ],
+  "category": "government"
+}

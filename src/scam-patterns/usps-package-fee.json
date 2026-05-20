@@ -1,0 +1,13 @@
+{
+  "id": "usps-package-fee",
+  "name": "USPS package redelivery fee",
+  "description": "Fake USPS text claiming a package is held and requires a small fee to release.",
+  "example": "USPS: Your package is being held at our facility. A redelivery fee of $2.99 is required. Pay here: usps-redelivery[.]com/pay",
+  "red_flags": [
+    "USPS does not text customers asking for fees",
+    "Fee amount is small to seem harmless",
+    "URL is not usps.com (real USPS domain)",
+    "Urgency about a held package"
+  ],
+  "category": "delivery"
+}

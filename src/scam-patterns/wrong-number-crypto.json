@@ -1,0 +1,13 @@
+{
+  "id": "wrong-number-crypto",
+  "name": "Wrong number pivot to crypto/romance",
+  "description": "A friendly 'wrong number' text that, if you reply, pivots to chit-chat, then to a friendship or romance, then to a crypto investing scheme (often called 'pig butchering').",
+  "example": "Hi David, are we still on for dinner Saturday at 7?",
+  "red_flags": [
+    "Unknown number addressing a name that isn't yours",
+    "Friendly opener designed to get any reply",
+    "After replying 'wrong number,' sender continues the conversation",
+    "Eventually mentions a crypto trading platform with high returns"
+  ],
+  "category": "romance"
+}

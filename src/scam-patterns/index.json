@@ -1,0 +1,9 @@
+{
+  "patterns": [
+    { "id": "irs-back-taxes", "category": "government" },
+    { "id": "job-offer-upfront", "category": "employment" },
+    { "id": "refund-confirmation", "category": "financial" },
+    { "id": "usps-package-fee", "category": "delivery" },
+    { "id": "wrong-number-crypto", "category": "romance" }
+  ]
+}
